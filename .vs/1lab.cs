@@ -73,7 +73,7 @@ class Program
 
                 if (i == 2)
                 {
-                    Console.WriteLine("...Or...Seems like you are fudging dumb, pal. Perhaps, you are stupid donkey. You are a loser");
+                    Console.WriteLine("...Or...Seems like you are fudging dumb, pal. I LEAVE, LOSER!");
                     Environment.Exit(0);
                 }
             }
@@ -87,6 +87,7 @@ class Program
         Console.WriteLine("Did you enjoy the game, pal? (Y/N)");
         char answer = Convert.ToChar((Console.Read()));
         Console.ReadLine(); //needed to prevent game calling user fool
+
         if (answer == 'Y'|| answer == 'y')
             return 'Y';
         else
