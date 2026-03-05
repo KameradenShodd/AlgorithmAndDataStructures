@@ -1,0 +1,15 @@
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\bin\Debug\net10.0\RichardTheThird.exe
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\bin\Debug\net10.0\RichardTheThird.deps.json
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\bin\Debug\net10.0\RichardTheThird.runtimeconfig.json
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\bin\Debug\net10.0\RichardTheThird.dll
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\bin\Debug\net10.0\RichardTheThird.pdb
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.AssemblyInfoInputs.cache
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.AssemblyInfo.cs
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.csproj.CoreCompileInputs.cache
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.sourcelink.json
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.dll
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\refint\RichardTheThird.dll
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.pdb
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\RichardTheThird.genruntimeconfig.cache
+C:\Users\shodde\source\repos\KameradenShodd\AlgorithmAndDataStructures\.vs\RichardTheThird\RichardTheThird\obj\Debug\net10.0\ref\RichardTheThird.dll

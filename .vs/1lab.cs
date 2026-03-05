@@ -17,7 +17,7 @@ class Program
             int counter = Game();
             if (counter < min || min == 0)
                 min = counter;
-            if (counter < max)
+            if (counter > max)
                 max = counter;
             countgame++;
             count = count + counter;
@@ -87,7 +87,6 @@ class Program
         Console.WriteLine("Did you enjoy the game, pal? (Y/N)");
         char answer = Convert.ToChar((Console.Read()));
         Console.ReadLine(); //needed to prevent game calling user fool
-
         if (answer == 'Y'|| answer == 'y')
             return 'Y';
         else
